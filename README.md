@@ -17,35 +17,37 @@ The Book Search Engine is an app that allows users to search for books, save the
 git clone
 cd 
 
-# Install dependencies:
+## Install dependencies:
 
-# Back end:
+## Back end:
 ```
 cd backend
 npm install
 ```
 
-# Front end:
+## Front end:
 ```
 cd frontend
 npm install
 ```
 
-# Set up MongoDB Atlas:
+## Set up MongoDB Atlas:
 
 -Create a MongoDB Atlas cluster.
 
 -Get the connection string and add it to .env files on both front and back ends.
 
-# Run the app locally:
+## Run the app locally:
 
 - Start the backend server:
+  
 ```
 cd server
 npm start
 ```
 
 -Start the frontend development server:
+
 ```
 cd client 
 npm run dev
@@ -56,5 +58,5 @@ npm run dev
 
 Fork the repository
 
-# License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
