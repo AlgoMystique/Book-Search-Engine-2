@@ -56,7 +56,20 @@ npm run dev
 
 ## Deployment: 
 
-It is deployed in Render. Check out the live demo here: [Google Books App](https://book-search-engine-2-3.onrender.com)
+-Go to Render
+-Choose New Web Service
+-Connect your repository
+-Deploy from root directory 
+
+```
+npm install && npm run build
+```
+```
+npm run start
+````
+
+
+Click Create Web Service to deploy your server.It is deployed in Render. Check out the live demo here: [Google Books App](https://book-search-engine-2-3.onrender.com)
   
 ## Contributing
 
