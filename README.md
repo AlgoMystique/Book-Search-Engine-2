@@ -56,7 +56,7 @@ npm run dev
 
 ## Deployment: 
 
-- Coming soon
+It is deployed in Render. Check out the live demo here: [Google Books App](https://book-search-engine-2-3.onrender.com)
   
 ## Contributing
 
