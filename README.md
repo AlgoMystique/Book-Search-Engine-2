@@ -54,7 +54,10 @@ cd client
 npm run dev
 ```
 
+## Deployment: 
 
+- Coming soon
+  
 ## Contributing
 
 Fork the repository
