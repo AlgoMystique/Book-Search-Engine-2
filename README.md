@@ -19,15 +19,15 @@ cd
 
 ## Install dependencies:
 
-## Back end:
+## server:
 ```
-cd backend
+cd server
 npm install
 ```
 
-## Front end:
+## client
 ```
-cd frontend
+cd client
 npm install
 ```
 
