@@ -1,4 +1,4 @@
-# Book-Search Engine
+# The BookHub
 
 The Book Search Engine is an app that allows users to search for books, save their favorite books, and view them later. Originally built with a RESTful API, this app has been refactored to utilize a GraphQL API using Apollo Server. It is built with the MERN stack: MongoDB, Express.js, React, and Node.js. The app also supports user authentication, allowing users to sign up, log in, and save their book searches to their account.
 
